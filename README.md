@@ -19,7 +19,7 @@ To run this application, you need to first clone the `different-editing-modes-an
 To do so, open the command prompt and run the below commands one after the other.
 
 ```
-git clone https://github.com/SyncfusionExamples/binding-json-data-and-service-urls-to-the-vue-grid grid-example
+git clone https://github.com/SyncfusionExamples/different-editing-modes-and-cell-edit-types-in-vue-grid grid-example
 cd grid-example
 ```
 
